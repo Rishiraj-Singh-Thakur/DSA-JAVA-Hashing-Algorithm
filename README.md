@@ -71,7 +71,7 @@ The aim is to understand how **hashing works**, how data is stored efficiently, 
 ---
 
 ## 🚀 How to Use
-1. Clone the repository  
+1. Clone the repository 
    ```bash
    git clone <https://github.com/Rishiraj-Singh-Thakur/DSA-JAVA-Hashing-Algorithm.git>
 >
